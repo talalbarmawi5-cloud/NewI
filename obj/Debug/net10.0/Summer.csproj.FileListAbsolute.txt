@@ -1,0 +1,14 @@
+/Users/talal/Desktop/Summer/bin/Debug/net10.0/Summer
+/Users/talal/Desktop/Summer/bin/Debug/net10.0/Summer.deps.json
+/Users/talal/Desktop/Summer/bin/Debug/net10.0/Summer.runtimeconfig.json
+/Users/talal/Desktop/Summer/bin/Debug/net10.0/Summer.dll
+/Users/talal/Desktop/Summer/bin/Debug/net10.0/Summer.pdb
+/Users/talal/Desktop/Summer/obj/Debug/net10.0/Summer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/talal/Desktop/Summer/obj/Debug/net10.0/Summer.AssemblyInfoInputs.cache
+/Users/talal/Desktop/Summer/obj/Debug/net10.0/Summer.AssemblyInfo.cs
+/Users/talal/Desktop/Summer/obj/Debug/net10.0/Summer.csproj.CoreCompileInputs.cache
+/Users/talal/Desktop/Summer/obj/Debug/net10.0/Summer.dll
+/Users/talal/Desktop/Summer/obj/Debug/net10.0/refint/Summer.dll
+/Users/talal/Desktop/Summer/obj/Debug/net10.0/Summer.pdb
+/Users/talal/Desktop/Summer/obj/Debug/net10.0/Summer.genruntimeconfig.cache
+/Users/talal/Desktop/Summer/obj/Debug/net10.0/ref/Summer.dll
