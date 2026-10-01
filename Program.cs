@@ -1,1 +1,4 @@
-﻿Console.WriteLine("Talal");
+﻿
+
+string a = "lolo";
+Console.WriteLine(a);
