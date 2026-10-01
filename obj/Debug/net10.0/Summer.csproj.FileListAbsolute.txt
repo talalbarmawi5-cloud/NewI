@@ -12,3 +12,4 @@
 /Users/talal/Desktop/Summer/obj/Debug/net10.0/Summer.pdb
 /Users/talal/Desktop/Summer/obj/Debug/net10.0/Summer.genruntimeconfig.cache
 /Users/talal/Desktop/Summer/obj/Debug/net10.0/ref/Summer.dll
+/Users/talal/Desktop/Summer/obj/Debug/net10.0/Summer.sourcelink.json
